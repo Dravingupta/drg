@@ -28,7 +28,7 @@ export default function Navbar() {
           <li>
             <a
               className="nav-link btn btn-primary"
-              href="https://github.com/CommunityPro/portfolio-html"
+              href="#"
             >
               RESUME <i className="fas fa-arrow-right"></i>
             </a>
