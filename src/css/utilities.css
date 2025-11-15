@@ -229,7 +229,9 @@ body {
   background: url(../assets/project/project-one.png) center center/cover;
 }
 
-
+.card:nth-child(2) {
+  background: url(../assets/project/project-two.png) center center/cover;
+}
 
 
 
